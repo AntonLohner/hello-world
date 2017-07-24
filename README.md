@@ -1,2 +1,5 @@
 # hello-world
-The first step
+
+Hello Robots!
+
+Bara here, trying to figure out what on earth i'm doing. 
